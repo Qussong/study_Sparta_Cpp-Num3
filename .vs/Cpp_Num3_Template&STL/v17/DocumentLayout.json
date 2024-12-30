@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A2566-B773-4986-B97F-6AF92DBECA57}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\2_Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A49A2566-B773-4986-B97F-6AF92DBECA57}|main\\main.vcxproj|solutionrelative:main\\2_Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A2566-B773-4986-B97F-6AF92DBECA57}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\1_Essential.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A49A2566-B773-4986-B97F-6AF92DBECA57}|main\\main.vcxproj|solutionrelative:main\\1_Essential.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2_Challenge.cpp",
+              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\2_Challenge.cpp",
+              "RelativeDocumentMoniker": "main\\2_Challenge.cpp",
+              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\2_Challenge.cpp",
+              "RelativeToolTip": "main\\2_Challenge.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T04:25:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_Essential.cpp",
+              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\1_Essential.cpp",
+              "RelativeDocumentMoniker": "main\\1_Essential.cpp",
+              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_Sparta_Cpp-Num3\\main\\1_Essential.cpp",
+              "RelativeToolTip": "main\\1_Essential.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T04:25:47.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
